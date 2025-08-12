@@ -4,8 +4,8 @@
 </p>
 -->
 
-<h2 align="center">Emir · savamir 👋</h2>
-<p align="center"><b>Python Developer (Junior+) · Remote</b></p>
+<h2 align="center">Emir ~ Lycode (Savamir) 👋</h2>
+<p align="center"><b>Python Developer · Remote</b></p>
 
 <p align="center">
   <a href="https://github.com/savamir"><img src="https://img.shields.io/badge/GitHub-@savamir-181717?logo=github" alt="GitHub"/></a>
@@ -25,7 +25,7 @@
 - 🔭 Сейчас работаю над пет‑проектами на Django/FastAPI
 - 🌱 Изучаю фундамент Python, ООП, SQL, тестирование (pytest), асинхронность
 - 💬 Можно спросить про базовый Python, веб‑API, CRUD, ORM (SQLAlchemy), деплой Docker
-- 🎯 Цель: прокачать портфолио и выйти на первую работу/стажировку Python (Junior+)
+- 🎯 Цель: прокачать портфолио
 
 ### Технологии и инструменты (RU)
 
@@ -70,7 +70,7 @@
 - 🔭 Working on pet projects with Django/FastAPI
 - 🌱 Learning Python fundamentals, OOP, SQL, testing (pytest), async IO
 - 💬 Ask me about Python basics, web APIs, CRUD, ORM (SQLAlchemy), Docker deploys
-- 🎯 Goal: build a solid portfolio and land a first Python (Junior+) role/internship
+- 🎯 Goal: build a solid portfolio
 
 ### Tech stack & tools (EN)
 
