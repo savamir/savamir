@@ -46,11 +46,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>
 
-### Избранные проекты (RU)
-
-- [fastapi-template](https://github.com/savamir/fastapi-template) — базовый REST API, стек: Python, FastAPI, SQLAlchemy
-- [django-starter](https://github.com/savamir/django-starter) — блог/админка, стек: Python, Django, PostgreSQL
-- [py-algo-notes](https://github.com/savamir/py-algo-notes) — задачи и конспекты по алгоритмам
 
 ### Статистика GitHub
 
@@ -66,27 +61,7 @@
 ### Как связаться (RU)
 
 - Telegram: [@Lycode](https://t.me/Lycode)
-
----
-
-<sub>Эта страница — `README.md` из репозитория‑профиля `/savamir/savamir`.</sub>
-
-#### Быстрый старт публикации
-
-```bash
-# 1) Создайте репозиторий с именем вашего профиля (точно как ник):
-#    https://github.com/new → Repository name: savamir
-
-# 2) Скопируйте этот README в корень нового репозитория как README.md и запушьте
-git init
-git add README.md
-git commit -m "chore(profile): add profile README"
-git branch -M main
-git remote add origin https://github.com/savamir/savamir.git
-git push -u origin main
-```
-
-<a id="en"></a>
+- Discord: [#Lycode](https://discordapp.com/users/lycode)
 
 ---
 
@@ -116,13 +91,8 @@ git push -u origin main
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>
 
-### Featured projects (EN)
-
-- [fastapi-template](https://github.com/savamir/fastapi-template) — basic REST API, stack: Python, FastAPI, SQLAlchemy
-- [django-starter](https://github.com/savamir/django-starter) — blog/admin, stack: Python, Django, PostgreSQL
-- [py-algo-notes](https://github.com/savamir/py-algo-notes) — problem‑solving notes and practice
-
 ### Contact (EN)
 
 - Telegram: [@Lycode](https://t.me/Lycode)
+- Discord: [#Lycode](https://discordapp.com/users/lycode)
 
