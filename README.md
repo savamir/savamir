@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80&auto=format&fit=crop" alt="banner"/>
-</p>
-
-
 <h2 align="center">Emir ~ Lycode (savamir) 👋</h2>
 <p align="center"><b>Python Developer · Remote</b></p>
 
