@@ -1,10 +1,10 @@
-<!-- Баннер (опционально). Замените ссылку на свою картинку или удалите блок.
+
 <p align="center">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80&auto=format&fit=crop" alt="banner"/>
 </p>
--->
 
-<h2 align="center">Emir ~ Lycode (Savamir) 👋</h2>
+
+<h2 align="center">Emir ~ Lycode (savamir) 👋</h2>
 <p align="center"><b>Python Developer · Remote</b></p>
 
 <p align="center">
@@ -16,6 +16,10 @@
   <a href="#ru">RU</a> | <a href="#en">EN</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=savamir&style=flat&color=blue" alt="profile views"/>
+</p>
+
 ---
 
 <a id="ru"></a>
@@ -25,7 +29,7 @@
 - 🔭 Сейчас работаю над пет‑проектами на Django/FastAPI
 - 🌱 Изучаю фундамент Python, ООП, SQL, тестирование (pytest), асинхронность
 - 💬 Можно спросить про базовый Python, веб‑API, CRUD, ORM (SQLAlchemy), деплой Docker
-- 🎯 Цель: прокачать портфолио
+- 🎯 Цель: прокачать портфолио и выйти на первую работу/стажировку Python (Junior+)
 
 ### Технологии и инструменты (RU)
 
@@ -46,16 +50,18 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>
 
-
 ### Статистика GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=savamir&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savamir&layout=compact&langs_count=8&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=savamir&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="165"/>
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=savamir&theme=transparent" height="165"/>
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=savamir&theme=algolia&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ### Как связаться (RU)
