@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="#ru">RU</a> | <a href="#en">EN</a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=savamir&style=flat&color=blue" alt="profile views"/>
 </p>
 
