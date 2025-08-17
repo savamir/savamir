@@ -52,9 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=savamir&theme=transparent" height="165"/>
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=savamir&theme=algolia&no-bg=true&no-frame=true&row=1&column=7" />
-</p>
 
 ### Как связаться (RU)
 
